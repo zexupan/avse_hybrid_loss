@@ -1,0 +1,14 @@
+dict/
+ignore/
+log/**/*.pt
+**/__pycache__/
+**/hlt.txt
+**/slurm*
+**/tmp_list*.npy
+**/*.tar
+**/score
+**/egs1/
+**/.DS_Store
+**/._*
+
+deep_avsr_weights/
